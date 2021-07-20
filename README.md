@@ -3,7 +3,6 @@
       url: http://x.x.x.x/
       command:whoami
       注册成功
-      用户名：CwO8pWg0@O0S86b.com密码：1Oip7rzqZz
       root
 
 ##   编写思路
