@@ -4,7 +4,7 @@
       command:whoami
       注册成功
       root
-
+![image](./img1.png)
 ##   编写思路
    每次输入网址先判断是否开启注册，
    生成随机账户名和密码
