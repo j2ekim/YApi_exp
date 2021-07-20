@@ -1,6 +1,6 @@
 # Yapi任意任意命令执行漏洞利用工具
-Yapi任意任意命令执行漏洞  By j2ekim
-url: http://x.x.x.x/
+   Yapi任意任意命令执行漏洞  By j2ekim
+   url: http://x.x.x.x/
 
 ##   编写思路
    每次输入网址先判断是否开启注册，
