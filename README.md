@@ -1,7 +1,6 @@
 # YApi_exp
         Yapi任意任意命令执行漏洞  By j2ekim
         url: http://x.x.x.x/
-        
 ## 
    批量利用工具不放出，如需使用请自行造轮子
 ###   编写思路
