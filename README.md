@@ -2,8 +2,7 @@
       Yapi任意任意命令执行漏洞  By j2ekim
       url: http://x.x.x.x/
       command:whoami
-      注册成功
-      root
+      
 ![image](./img1.png)
 ##   编写思路
    每次输入网址先判断是否开启注册，
