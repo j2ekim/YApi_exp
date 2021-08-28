@@ -1,6 +1,5 @@
 # Yapi任意命令执行漏洞利用工具
       [input 版]
-      Yapi任意任意命令执行漏洞  By j2ekim
       url: http://x.x.x.x/
       command:whoami
       
