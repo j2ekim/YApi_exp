@@ -1,16 +1,16 @@
 # Yapi任意命令执行漏洞利用工具 
 by j2ekim
 
+      [cmd 版]
+      exp.py -u [--url] -c [--command] 
+      exp.py -u http://127.0.0.1 -c whoami
+![image](./img2.png)
+
       [input 版]
       url: http://x.x.x.x/
       command:whoami
       
 ![image](./img1.png)
-
-      [cmd 版]
-      exp.py -u [--url] -c [--command] 
-      exp.py -u http://127.0.0.1 -c whoami
-![image](./img2.png)
 
 ## 编写思路
    每次输入网址先判断是否开启注册，
