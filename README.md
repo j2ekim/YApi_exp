@@ -1,10 +1,14 @@
 # Yapi任意命令执行漏洞利用工具
-            [input 版]
+      [input 版]
       Yapi任意任意命令执行漏洞  By j2ekim
       url: http://x.x.x.x/
       command:whoami
       
 ![image](./img1.png)
+
+      [cmd 版]
+      Usage: exp.py -u [--url] -c [--command] target
+             exp.py -u http://127.0.0.1 -c whoami
 ![image](./img2.png)
 
 ## 编写思路
