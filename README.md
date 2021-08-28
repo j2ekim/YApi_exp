@@ -7,8 +7,8 @@
 ![image](./img1.png)
 
       [cmd 版]
-      Usage: exp.py -u [--url] -c [--command] target
-             exp.py -u http://127.0.0.1 -c whoami
+      Usage: exp.py -u [--url] -c [--command] 
+      exp.py -u http://127.0.0.1 -c whoami
 ![image](./img2.png)
 
 ## 编写思路
